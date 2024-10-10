@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.suo
+*.lo
+*.o
+*.obj
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Folders
+.vscode
+.vs
+Client/Intermediate
+Engine/Intermediate
+Intermediate
+Client/Bin
+Engine/Bin
